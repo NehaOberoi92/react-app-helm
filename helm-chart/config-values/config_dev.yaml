@@ -1,0 +1,4 @@
+configValues: |
+    window.REACT_APP_AXCO_IQ_API_ENDPOINT='https://neha.dev2/api/public/bookmarks'
+    window.REACT_APP_ENVIRONMENT='DEV'
+    window.REACT_APP_NAVBAR_COLOR='LightGreen'
