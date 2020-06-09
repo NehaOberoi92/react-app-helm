@@ -8,7 +8,7 @@ label:
 container:
   name: sample-react-app
   pullPolicy: IfNotPresent
-  image: bhavik0907/react-app
+  image: bhavik0907/react-helm
   tag: latest
   port: 80
 
